@@ -9,6 +9,7 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
 * [CQ-editor](https://github.com/CadQuery/CQ-editor) - CadQuery GUI editor based on PyQT supports Linux, Windows and Mac. [![Build status](https://ci.appveyor.com/api/projects/status/g98rs7la393mgy91/branch/master?svg=true)](https://ci.appveyor.com/project/adam-urbanczyk/cq-editor/branch/master)
 * [Jupyter-CadQuery](https://github.com/bernhard-42/jupyter-cadquery) - View CadQuery objects in JupyterLab or in a standalone viewer for any IDE.
 * [VSCode CadQuery Extension](https://github.com/roipoussiere/cadquery-vscode) - Build parametric 2D/3D CAD models in VSCode with the CadQuery library.
+* [CQ-CAM](https://github.com/voneiden/cq-cam) - CQ-CAM aims to become a free, parametric CAM solution for 3-axis CNC mills closely integrating with CadQuery. Works from within CQ-editor.
 
 ## CLIs
 
