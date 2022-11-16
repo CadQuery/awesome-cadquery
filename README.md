@@ -48,3 +48,7 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
 * [cadquery-models](https://github.com/tanius/cadquery-models) - A bucket repository for CadQuery 3D models and experiments, except larger projects that deserver their own repo.
 * [Eggbeater Antenna](https://github.com/jmwright/cadquery-projects/tree/master/eggbeater-antenna) - Example of a design that automatically adjusts to a design constraint. In this case the frequency drives the design.
 * [Tetrakaidecahedron](https://github.com/bragostin/CadQuery-Examples/blob/main/Tetrakaidecahedron.py) - An example of how to create a tetrakaidecahedron.
+
+## Style Guides
+
+* [CQ Style](https://github.com/jpoles1/cq_style) - A neat CadQuery structure for your projects.
