@@ -12,6 +12,8 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
 * [CQ-CAM](https://github.com/voneiden/cq-cam) - CQ-CAM aims to become a free, parametric CAM solution for 3-axis CNC mills closely integrating with CadQuery. Works from within CQ-editor.
 * [freecad-cadquery2-workbench](https://github.com/jpmlt/freecad-cadquery2-workbench) - This is a FreeCAD Workbench to render CadQuery 2.x script in FreeCAD. Based on the original workbench that is only compatible with CadQuery 1.x.
 * [cadquery-gui](https://github.com/jmwright/cadquery-gui) - A semi-maintained Electron-based CAD GUI built for CadQuery 1.x and 2.x.
+* [BlendQuery](https://github.com/uki-dev/blendquery) - CadQuery integration for Blender.
+
 
 ## CLIs
 
