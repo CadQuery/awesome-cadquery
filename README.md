@@ -9,11 +9,9 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
 * [CQ-editor](https://github.com/CadQuery/CQ-editor) - CadQuery GUI editor based on PyQT supports Linux, Windows and Mac. [![Build status](https://ci.appveyor.com/api/projects/status/g98rs7la393mgy91/branch/master?svg=true)](https://ci.appveyor.com/project/adam-urbanczyk/cq-editor/branch/master)
 * [Jupyter-CadQuery](https://github.com/bernhard-42/jupyter-cadquery) - View CadQuery objects in JupyterLab or in a standalone viewer for any IDE.
 * [VSCode CadQuery Extension](https://github.com/roipoussiere/cadquery-vscode) - Build parametric 2D/3D CAD models in VSCode with the CadQuery library.
-* [CQ-CAM](https://github.com/voneiden/cq-cam) - CQ-CAM aims to become a free, parametric CAM solution for 3-axis CNC mills closely integrating with CadQuery. Works from within CQ-editor.
 * [freecad-cadquery2-workbench](https://github.com/jpmlt/freecad-cadquery2-workbench) - This is a FreeCAD Workbench to render CadQuery 2.x script in FreeCAD. Based on the original workbench that is only compatible with CadQuery 1.x.
 * [cadquery-gui](https://github.com/jmwright/cadquery-gui) - A semi-maintained Electron-based CAD GUI built for CadQuery 1.x and 2.x.
 * [BlendQuery](https://github.com/uki-dev/blendquery) - CadQuery integration for Blender.
-
 
 ## CLIs
 
@@ -27,6 +25,7 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
 * [cqMore](https://github.com/JustinSDK/cqMore) - cqMore aims to add more fundamental API to CadQuery.
 * [sphinxcadquery](https://github.com/CadQuery/sphinxcadquery) - An extension to visualize CadQuery 3D files in your Sphinx documentation.
 * [cq_gears](https://github.com/meadiode/cq_gears) - Gear generator for things like spur gears, helical gears, and planetary gear sets.
+* [ocp-freecad-cam](https://github.com/voneiden/ocp-freecad-cam) CAM for CadQuery and Build123d by leveraging FreeCAD library. Visualizes in CQ-Editor and ocp-cad-viewer. Spiritual successor of [cq-cam](https://github.com/voneiden/cq-cam)
 
 ## Part Libraries and Part Generators
 
