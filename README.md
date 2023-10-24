@@ -39,6 +39,7 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
 * [Nales](https://github.com/Jojain/Nales) - Nales is a GUI CAD application that aims to bring full interactivity to CadQuery. [![Build and checks Nales install](https://github.com/Jojain/Nales/actions/workflows/build_and_checks.yaml/badge.svg)](https://github.com/Jojain/Nales/actions/workflows/build_and_checks.yaml)
 * [Semblage](https://github.com/7BIndustries/Semblage) - Semblage is an open source CAD GUI backed by a programmatic CAD API named CadQuery. [![tests](https://github.com/7BIndustries/Semblage/actions/workflows/tests.yml/badge.svg)](https://github.com/7BIndustries/Semblage/actions/workflows/tests.yml)
 * [cq-flake](https://github.com/marcus7070/cq-flake) - A nix flake that allows you to reproduce a CadQuery and CQ-editor installation anywhere that has the nix package manager.
+* [cadquery-action](https://github.com/Yeicor/cadquery-action/) - GitHub Action that builds CadQuery models, renders them and sets up a model viewer on Github Pages. ![Tests](https://github.com/Yeicor/cadquery-action/actions/workflows/ci.yml/badge.svg?branch=main)
 * [cadquery-doc-translations](https://github.com/tkoyama010/cadquery-doc-translations) - A repository that holds Japanese translations of the CadQuery docs.
 
 ## Examples and Tutorials
