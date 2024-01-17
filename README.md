@@ -32,6 +32,7 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
 * [CQ_Gears](https://github.com/meadiode/cq_gears) - CadQuery based involute profile gear generator.
 * [cq-electronics](https://github.com/sethfischer/cq-electronics) - Pure CadQuery models of various electronic boards and components. ![build-status](https://github.com/sethfischer/cq-electronics/actions/workflows/build.yml/badge.svg)
 * [KiCad Packages3D Generator](https://gitlab.com/kicad/libraries/kicad-packages3D-generator) - Python scripts for generating 3D electrical component models in STEP and VRML.
+* [cq-gridfinity](https://github.com/michaelgale/cq-gridfinity) - A python package for making various Gridfinity compatible objects such as baseplates, boxes, rugged boxes, and drawer spacers. PyPI package available.
 
 ## Miscellaneous
 
