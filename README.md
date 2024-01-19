@@ -26,7 +26,7 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
 * [sphinxcadquery](https://github.com/CadQuery/sphinxcadquery) - An extension to visualize CadQuery 3D files in your Sphinx documentation.
 * [cq_gears](https://github.com/meadiode/cq_gears) - Gear generator for things like spur gears, helical gears, and planetary gear sets.
 * [ocp-freecad-cam](https://github.com/voneiden/ocp-freecad-cam) CAM for CadQuery and Build123d by leveraging FreeCAD library. Visualizes in CQ-Editor and ocp-cad-viewer. Spiritual successor of [cq-cam](https://github.com/voneiden/cq-cam)
-8 [freecad_import](https://github.com/CadQuery/cadquery-plugins/tree/main/plugins/freecad_import) - A plugin whhich allows users to import FreeCAD models into CadQuery, and will apply parameters to the model if they are provided and the model is a parametric one (contains a FreeCAD spreadsheet document)
+* [freecad_import](https://github.com/CadQuery/cadquery-plugins/tree/main/plugins/freecad_import) - A plugin whhich allows users to import FreeCAD models into CadQuery, and will apply parameters to the model if they are provided and the model is a parametric one (contains a FreeCAD spreadsheet document)
 
 ## Part Libraries and Part Generators
 
