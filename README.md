@@ -12,6 +12,7 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
 * [freecad-cadquery2-workbench](https://github.com/jpmlt/freecad-cadquery2-workbench) - This is a FreeCAD Workbench to render CadQuery 2.x script in FreeCAD. Based on the original workbench that is only compatible with CadQuery 1.x.
 * [cadquery-gui](https://github.com/jmwright/cadquery-gui) - A semi-maintained Electron-based CAD GUI built for CadQuery 1.x and 2.x.
 * [BlendQuery](https://github.com/uki-dev/blendquery) - CadQuery integration for Blender.
+* [Yet Another CAD Viewer](https://github.com/yeicor-3d/yet-another-cad-viewer) - A CAD viewer capable of displaying [OCP](https://github.com/CadQuery/OCP) models ([CadQuery](https://github.com/CadQuery/cadquery)/[Build123d](https://github.com/gumyr/build123d)/...) in a web browser.
 
 ## CLIs
 
