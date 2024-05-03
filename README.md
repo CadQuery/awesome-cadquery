@@ -26,6 +26,11 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
 * [cqMore](https://github.com/JustinSDK/cqMore) - cqMore aims to add more fundamental API to CadQuery.
 * [sphinxcadquery](https://github.com/CadQuery/sphinxcadquery) - An extension to visualize CadQuery 3D files in your Sphinx documentation.
 * [cq_gears](https://github.com/meadiode/cq_gears) - Gear generator for things like spur gears, helical gears, and planetary gear sets.
+* [dl4to4ocp](https://github.com/yeicor-3d/dl4to4ocp) - Library that helps perform [topology optimization](https://en.wikipedia.org/wiki/Topology_optimization) on
+your [OCP](https://github.com/CadQuery/OCP)-based CAD
+models ([CadQuery](https://github.com/CadQuery/cadquery)/[Build123d](https://github.com/gumyr/build123d)/...) using
+the [dl4to](https://github.com/dl4to/dl4to) library.
+ ![Tests](https://github.com/yeicor-3d/dl4to4ocp/actions/workflows/test.yml/badge.svg?branch=master)
 * [ocp-freecad-cam](https://github.com/voneiden/ocp-freecad-cam) CAM for CadQuery and Build123d by leveraging FreeCAD library. Visualizes in CQ-Editor and ocp-cad-viewer. Spiritual successor of [cq-cam](https://github.com/voneiden/cq-cam)
 * [freecad_import](https://github.com/CadQuery/cadquery-plugins/tree/main/plugins/freecad_import) - A plugin which allows users to import FreeCAD models into CadQuery, and will apply parameters to the model if they are provided and the model is a parametric one (contains a FreeCAD spreadsheet document).
 
