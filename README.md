@@ -34,6 +34,7 @@ the [dl4to](https://github.com/dl4to/dl4to) library.
  ![Tests](https://github.com/yeicor-3d/dl4to4ocp/actions/workflows/test.yml/badge.svg?branch=master)
 * [ocp-freecad-cam](https://github.com/voneiden/ocp-freecad-cam) CAM for CadQuery and Build123d by leveraging FreeCAD library. Visualizes in CQ-Editor and ocp-cad-viewer. Spiritual successor of [cq-cam](https://github.com/voneiden/cq-cam)
 * [freecad_import](https://github.com/CadQuery/cadquery-plugins/tree/main/plugins/freecad_import) - A plugin which allows users to import FreeCAD models into CadQuery, and will apply parameters to the model if they are provided and the model is a parametric one (contains a FreeCAD spreadsheet document).
+* [assembly-mesh-plugin](https://github.com/CadQuery/assembly-mesh-plugin) - A plugin to create a mesh of an assembly with corresponding color, layer and name data.
 
 ## Part Libraries and Part Generators
 
