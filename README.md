@@ -43,6 +43,8 @@ the [dl4to](https://github.com/dl4to/dl4to) library.
 * [KiCad Packages3D Generator](https://gitlab.com/kicad/libraries/kicad-packages3D-generator) - Python scripts for generating 3D electrical component models in STEP and VRML.
 * [cq-gridfinity](https://github.com/michaelgale/cq-gridfinity) - A python package for making various Gridfinity compatible objects such as baseplates, boxes, rugged boxes, and drawer spacers. PyPI package available.
 * [metric_threads](https://sourceforge.net/p/nl10/code/HEAD/tree/cq-code/common/metric_threads.py) - Module for generating internal and external metric threads.
+* [cadqueryhelper](https://github.com/medicationforall/cadqueryhelper) - Cadquery Shape primitive library and other helper scripts
+  * [cqterrain](https://github.com/medicationforall/cqterrain) - Part library for wargaming terrain pieces. Uses cadqueryhelper and cqMore.
 
 ## Miscellaneous
 
@@ -61,6 +63,8 @@ the [dl4to](https://github.com/dl4to/dl4to) library.
 * [cadquery-models](https://github.com/tanius/cadquery-models) - A bucket repository for CadQuery 3D models and experiments, except larger projects that deserver their own repo.
 * [Eggbeater Antenna](https://github.com/jmwright/cadquery-projects/tree/master/eggbeater-antenna) - Example of a design that automatically adjusts to a design constraint. In this case the frequency drives the design.
 * [Tetrakaidecahedron](https://github.com/bragostin/CadQuery-Examples/blob/main/Tetrakaidecahedron.py) - An example of how to create a tetrakaidecahedron.
+* [CadQuery Shape Primitives](https://miniforall.com/cqshapeprimitives) - One liner code snippets for making various shapes.
+* [CadQuery Array Operations](https://miniforall.com/cqarrayoperations) - Example CadQuery array operations.
 
 ## Style Guides
 
