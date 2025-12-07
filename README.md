@@ -63,7 +63,7 @@ the [dl4to](https://github.com/dl4to/dl4to) library.
 * [cadquery-models](https://github.com/tanius/cadquery-models) - A bucket repository for CadQuery 3D models and experiments, except larger projects that deserver their own repo.
 * [Eggbeater Antenna](https://github.com/jmwright/cadquery-projects/tree/master/eggbeater-antenna) - Example of a design that automatically adjusts to a design constraint. In this case the frequency drives the design.
 * [Tetrakaidecahedron](https://github.com/bragostin/CadQuery-Examples/blob/main/Tetrakaidecahedron.py) - An example of how to create a tetrakaidecahedron.
-* [CadQuery Shape primitives](https://miniforall.com/cqshapeprimitives) - One liner code snippets for making various shapes.
+* [CadQuery Shape Primitives](https://miniforall.com/cqshapeprimitives) - One liner code snippets for making various shapes.
 * [CadQuery Array Operations](https://miniforall.com/cqarrayoperations) - Example CadQuery array operations.
 
 ## Style Guides
