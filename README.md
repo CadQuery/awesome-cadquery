@@ -66,6 +66,11 @@ the [dl4to](https://github.com/dl4to/dl4to) library.
 * [CadQuery Shape Primitives](https://miniforall.com/cqshapeprimitives) - One liner code snippets for making various shapes.
 * [CadQuery Array Operations](https://miniforall.com/cqarrayoperations) - Example CadQuery array operations.
 
+## AI/LLM Integration
+
+* [MCP Server](https://github.com/CadQuery/cadquery-contrib/tree/master/mcp-server) - A Model Context Protocol server that enables AI assistants like Claude to execute CadQuery scripts and render 3D CAD models.
+* [CadQuery LLM Skill](https://github.com/jmwright/cadquery-llm-skill) - A skill that helps LLMs write correct, idiomatic CadQuery code.
+
 ## Style Guides
 
 * [CQ Style](https://github.com/jpoles1/cq_style) - A neat CadQuery structure for your projects.
