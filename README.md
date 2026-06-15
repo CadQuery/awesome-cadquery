@@ -35,6 +35,7 @@ the [dl4to](https://github.com/dl4to/dl4to) library.
 * [ocp-freecad-cam](https://github.com/voneiden/ocp-freecad-cam) CAM for CadQuery and Build123d by leveraging FreeCAD library. Visualizes in CQ-Editor and ocp-cad-viewer. Spiritual successor of [cq-cam](https://github.com/voneiden/cq-cam)
 * [freecad_import](https://github.com/CadQuery/cadquery-plugins/tree/main/plugins/freecad_import) - A plugin which allows users to import FreeCAD models into CadQuery, and will apply parameters to the model if they are provided and the model is a parametric one (contains a FreeCAD spreadsheet document).
 * [assembly-mesh-plugin](https://github.com/CadQuery/assembly-mesh-plugin) - A plugin to create a mesh of an assembly with corresponding color, layer and name data.
+* [argus-diff](https://github.com/mikelmyers/argus-diff) - Geometric diff and CI for STEP/mesh files built on OCP: body and face-level change detection, mass/interference gates, GitHub Action that comments diffs on PRs.
 
 ## Part Libraries and Part Generators
 
