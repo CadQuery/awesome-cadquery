@@ -14,6 +14,7 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
 * [BlendQuery](https://github.com/uki-dev/blendquery) - CadQuery integration for Blender.
 * [Yet Another CAD Viewer](https://github.com/yeicor-3d/yet-another-cad-viewer) - A CAD viewer capable of displaying [OCP](https://github.com/CadQuery/OCP) models ([CadQuery](https://github.com/CadQuery/cadquery)/[Build123d](https://github.com/gumyr/build123d)/...) in a web browser.
 * [cadquery2web](https://github.com/30hours/cadquery2web) - A browser based CadQuery server.
+* [cadquery-browser](https://github.com/tempe-techie/cadquery-browser) - Write CadQuery Python code in your browser (or in your code editor), see the rendered 3D model instantly, and export your designs as STL. Everything runs in Docker (no local Python or CadQuery installation needed).
 
 ## CLIs
 
