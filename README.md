@@ -63,6 +63,7 @@ the [dl4to](https://github.com/dl4to/dl4to) library.
 * [fx-cad-notes](https://github.com/fx-bricks/fx-cad-notes) - Documentation showing how [FX-Bricks](https://shop.fxbricks.com/) uses CadQuery in their product development pipeline.
 * [spindle-assy-example](https://github.com/marcus7070/spindle-assy-example) - An example assembly of the vacuum attachment for a Workbee CNC router.
 * [cadquery-models](https://github.com/tanius/cadquery-models) - A bucket repository for CadQuery 3D models and experiments, except larger projects that deserver their own repo.
+* [cadprops-step-models](https://github.com/cadprobs-a11y/cadprops-step-models) - Open sample CAD parts in STEP, STL and IGES with previews, inspection guides and per-model license notes; useful as geometry inputs when testing CadQuery export and inspection workflows.
 * [Eggbeater Antenna](https://github.com/jmwright/cadquery-projects/tree/master/eggbeater-antenna) - Example of a design that automatically adjusts to a design constraint. In this case the frequency drives the design.
 * [Tetrakaidecahedron](https://github.com/bragostin/CadQuery-Examples/blob/main/Tetrakaidecahedron.py) - An example of how to create a tetrakaidecahedron.
 * [CadQuery Shape Primitives](https://miniforall.com/cqshapeprimitives) - One liner code snippets for making various shapes.
