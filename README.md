@@ -72,6 +72,7 @@ the [dl4to](https://github.com/dl4to/dl4to) library.
 
 * [MCP Server](https://github.com/CadQuery/cadquery-contrib/tree/master/mcp-server) - A Model Context Protocol server that enables AI assistants like Claude to execute CadQuery scripts and render 3D CAD models.
 * [CadQuery LLM Skill](https://github.com/jmwright/cadquery-llm-skill) - A skill that helps LLMs write correct, idiomatic CadQuery code.
+* [Willianvdv/cad-render-mcp](https://github.com/Willianvdv/cad-render-mcp) - An MCP server that turns CadQuery's STEP exports into CAD-style views, ISO drawing sheets, photorealistic renders, GIF animations and MP4 videos, checked with exact measurements and clash detection. [![CI](https://github.com/Willianvdv/cad-render-mcp/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/Willianvdv/cad-render-mcp/actions/workflows/ci.yml)
 
 ## Style Guides
 
