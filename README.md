@@ -19,6 +19,7 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
 ## CLIs
 
 * [cq-cli](https://github.com/CadQuery/cq-cli) - Command Line Interface for executing CadQuery scripts and converting their output to another format. [![tests](https://github.com/CadQuery/cq-cli/workflows/tests/badge.svg)](https://github.com/CadQuery/cq-cli/actions)
+* [mesh2cad](https://github.com/emirmrkaljevic/mesh2cad) - Converts STL meshes to exact STEP solids and editable CadQuery/OpenSCAD scripts, with a self-check against the mesh; refuses parts it cannot fit (freeform surfaces). Also an MCP server.
 
 ## Extensions and Plugins
 
