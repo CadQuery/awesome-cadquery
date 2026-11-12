@@ -74,6 +74,7 @@ the [dl4to](https://github.com/dl4to/dl4to) library.
 * [MCP Server](https://github.com/CadQuery/cadquery-contrib/tree/master/mcp-server) - A Model Context Protocol server that enables AI assistants like Claude to execute CadQuery scripts and render 3D CAD models.
 * [CadQuery LLM Skill](https://github.com/jmwright/cadquery-llm-skill) - A skill that helps LLMs write correct, idiomatic CadQuery code.
 * [SOMA](https://github.com/Kai-Jungsthoefel/SOMA) - Desktop app where your own AI agent (Claude Code, Codex, Gemini CLI, ...) writes CadQuery models in a built-in terminal, with a live 3D viewer, visual feedback by clicking, measuring or sketching on the model, and STL/STEP export.
+* [SolidCraft CAD](https://solidcraftcad.com) - Web app that turns a text prompt into a parametric 3D CAD model, with STL/STEP export for 3D printing and CNC.
 
 ## Style Guides
 
